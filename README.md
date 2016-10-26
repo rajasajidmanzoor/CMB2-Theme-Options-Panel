@@ -14,6 +14,16 @@ Then add following line in functions.php
 Once you have done this step you can see Theme options Menu in your Admin dashboard. 
 Now open file custom_posts.php and customize this according to your needs.
 
+To your theme options values in frontend you can use following examples
+
+     global $myTheme_options;
+     $myTheme_options=get_site_option( 'options-page', true, false) ;
+     $site_title=myTheme_options['site_title'];
+     
+     $site_logo=myTheme_options['site_logo'];
+     
+     
+
 Examples:
 
 ![alt text](https://github.com/sajiddesigner/CMB2-Theme-Options-Panel/blob/master/cmb_to1.png "first Image")
