@@ -9,7 +9,7 @@ Anyone can use this theme options panel in their projects. It support all fields
 First of all clone this repository and place in your theme directory.
 Then add following line in functions.php 
 
-    require_once dirname( __FILE__ ) . '/custom_posts.php'; 
+    require_once dirname( __FILE__ ) . '/theme_options.php'; 
 
 Once you have done this step you can see Theme options Menu in your Admin dashboard. 
 Now open file custom_posts.php and customize this according to your needs.
