@@ -34,3 +34,5 @@ Examples:
 
 
 Please follow me at https://profiles.wordpress.org/sajiddesigner/
+
+DEVELOPED WITH ![alt text](https://github.com/sajiddesigner/CMB2-Theme-Options-Panel/blob/master/heart.gif "Peace") LOVE IN ![alt text](https://github.com/sajiddesigner/CMB2-Theme-Options-Panel/blob/master/pakistan.png "Peace") PAKISTAN
